@@ -9,5 +9,6 @@
 @stop
 
 @section ('scripts')
+{{ HTML::script('scripts/api.js') }}
 {{ HTML::script('scripts/home.js') }}
 @stop
