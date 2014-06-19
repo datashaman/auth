@@ -1,5 +1,6 @@
 /app/database/*.sqlite
 /bootstrap/compiled.php
+/public/components/
 /vendor
 composer.phar
 composer.lock
