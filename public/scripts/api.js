@@ -1,7 +1,6 @@
 (function($) {
     var defaultHandlers = {
             'success': function(payload) {
-                console.dir(console);
                 console.log(payload);
                 alert(JSON.stringify(payload.data));
             },
